@@ -1,0 +1,33 @@
+{
+  "name": "assignment2",
+  "version": "1.0.0",
+  "description": "assignment2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node gulpfile.js"
+  },
+  "author": "assignment2",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "express": "^4.16.2",
+    "gulp-webserver": "^0.9.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-clean-css": "^3.9.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "assignment2"
+  },
+  "keywords": [
+    "assignment2"
+  ]
+}
